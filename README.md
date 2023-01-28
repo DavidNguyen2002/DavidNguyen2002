@@ -11,7 +11,7 @@
 
 - 🎀 My personal site: **<a href="https://davidnguyen.site" target="_blank" rel="noreferrer">davidnguyen.site</a>**
 
-- 🔥 My goal for 2022: Contribute to open source projects!
+- 🔥 My goal for 2023: Contribute to open source projects!
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
