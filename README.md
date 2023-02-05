@@ -13,6 +13,11 @@
 
 - 🔥 My goal for 2023: Contribute to open source projects!
 
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api?username=DavidNguyen2002&theme=transparent" /> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noreferrer"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNguyen2002&layout=compact&theme=transparent" align="top" /> </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
